@@ -1,0 +1,10 @@
+{
+  "name": "tavern-ui-extension-example",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "npm install --prefix SillyTavern"
+  },
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }
+}

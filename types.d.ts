@@ -1,0 +1,1 @@
+import "./SillyTavern/public/global";
